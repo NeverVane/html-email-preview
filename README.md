@@ -1,10 +1,13 @@
-## Features
+## HTML Email Preview
 
-Preview your HTML email directly in VS Code without leaving the editor.
-Choose between many devices and email clients to get an idea of how your email will actually look like.
+This API enables developers to preview how HTML emails will render across different email clients and devices. The aim is to eliminate the guesswork and ensure that emails look as intended, no matter where they’re viewed. Additionally, the repository includes a VS Code extension for seamless integration into your development environment. 
 
+Use this tool to streamline your email testing process and maintain consistency and professionalism in your email communications.
+
+### Various devices / clients to choose from
 ![Device List](imgs/extension_devices.png)
 
+### Display the preview directly in VS Code ( [Get the Extension](https://marketplace.visualstudio.com/items?itemName=H501Cloud.html-email-preview) )
 ![HTML Preview](imgs/extension_preview.png)
 
 You can also use our API to get the preview, is as simple as using cURL
@@ -31,6 +34,8 @@ return [{
 "newImageUrl":"https://emailpreview.h501.io/files/qj123zxxzkj342f.jpg"
 }]
 ```
+
+Note: You could theoretically send more than one device at once, this is supported but it is possible the request will timeout. Work in progress for this. I suggest to choose one device at time until I get it right.
 
 ## Requirements
 
