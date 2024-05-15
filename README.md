@@ -8,7 +8,8 @@ Choose between many devices and email clients to get an idea of how your email w
 ![HTML Preview](imgs/extension_preview.png)
 
 You can also use our API to get the preview, is as simple as using cURL
-`
+
+```bash
 curl -X GET https://emailpreview.h501.io/devices \
 -H "Content-Type: application/json" \
 -H "X-API-KEY: 1234567890"
@@ -29,7 +30,7 @@ return [{
 "deviceKey":"aol_basic",
 "newImageUrl":"https://emailpreview.h501.io/files/qj123zxxzkj342f.jpg"
 }]
-`
+```
 
 ## Requirements
 
