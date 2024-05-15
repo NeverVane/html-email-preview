@@ -43,7 +43,7 @@ You need to get an API key at https://emailpreview.h501.io/
 
 ## Coming soon
 
-Possibility to run multiple preview at once
+Possibility to run multiple preview at once from the VS Code extension 
 
 ## Release Notes
 
