@@ -1,0 +1,62 @@
+MOBILE:
+
+iphone8_13: MOBILE - iPhone 8
+iphone_se: MOBILE - iPhone SE
+iphone11ios13: MOBILE - iPhone 11
+iPad_Air_13: MOBILE - iPad Air
+android_9: MOBILE - Android 9
+test: MOBILE - DevTesting
+iPhone12: MOBILE - iPhone 12
+iPhone13: MOBILE - iPhone 13
+iPhone12Pro: MOBILE - iPhone 12 Pro
+iPhone13ProMax: MOBILE - iPhone 13 Pro Max
+android_8: MOBILE - Android 8
+
+
+DESKTOP:
+
+microsoft_outlook_2016: DESKTOP - Microsoft Outlook 2016
+zimbra_desktop: DESKTOP - Zimbra Desktop
+microsoft_outlook_2010: DESKTOP - Microsoft Outlook 2010
+microsoft_outlook_2013: DESKTOP - Microsoft Outlook 2013
+microsoft_outlook_2007: DESKTOP - Microsoft Outlook 2007
+mailbird_dark: DESKTOP - Mailbird (dark)
+em_client: DESKTOP - eM Client
+postbox6: DESKTOP - Postbox 6
+mailbird_light: DESKTOP - Mailbird (light)
+thunderbird: DESKTOP - Thunderbird
+microsoft_outlook_2016_plain_text: DESKTOP - Microsoft Outlook 2016 (Plain Text)
+windows_live_mail_2012: DESKTOP - Windows Live Mail 2012
+win10mail_light: DESKTOP - Windows 10 Mail (Light)
+win10mail_dark: DESKTOP - Windows 10 Mail (Dark)
+microsoft_outlook_2003: DESKTOP - Microsoft Outlook 2003
+microsoft_outlook_2019: DESKTOP - Microsoft Outlook 2019
+microsoft_outlook_2019_mac_dark: DESKTOP - Microsoft Outlook 2019 Mac (Dark)
+microsoft_outlook_2019_mac_light: DESKTOP - Microsoft Outlook 2019 Mac (Light)
+apple_mail_dark: DESKTOP - Apple Mail (Dark)
+apple_mail_light: DESKTOP - Apple Mail (Light)
+
+
+WEB:
+
+aol_chrome: WEB - AOL (Chrome)
+gmail_chrome: WEB - Gmail (Chrome)
+outlook_chrome: WEB - Outlook.com (Chrome)
+gmx: WEB - GMX
+outlook_firefox: WEB - Outlook.com (Firefox)
+yahoo_chrome: WEB - Yahoo (Chrome)
+outlook_dark_chrome: WEB - Outlook.com "Dark Mode" (Chrome)
+gmail_firefox: WEB - Gmail (Firefox)
+icloud: WEB - iCloud
+yahoo_firefox: WEB - Yahoo (Firefox)
+aol_firefox: WEB - AOL (Firefox)
+yahoo_basic: WEB - Yahoo (Basic)
+aol_basic: WEB - AOL (Basic)
+onet_pl: WEB - onet.pl
+outlook_dark_firefox: WEB - Outlook.com "Dark Mode" (Firefox)
+seznam_cz: WEB - Seznam.cz
+zoho_dark: WEB - Zoho (Dark)
+zoho_light: WEB - Zoho (Light)
+office365_light: WEB - Office 365 (Light)
+office365_dark: WEB - Office 365 (Dark)
+roundcube_chrome: WEB - Roundcube (Chrome)

@@ -37,6 +37,14 @@ return [{
 
 Note: You could theoretically send more than one device at once, this is supported but it is possible the request will timeout. Work in progress for this. I suggest to choose one device at time until I get it right.
 
+## FAQ
+
+### Are the generated preview just an HTML rendering or is actual device/client simulation?
+The preview is a full render simulation of how the HTML code would look like across different devices/simulation. The fidelty is 100% becuase every preview is actually rendered on the desired device/client.
+
+### What devices/clients are supported?
+You can find the complete list of devices/clients [here](https://github.com/NeverVane/html-email-preview/devices-list.txt)
+
 ## Requirements
 
 You need to get an API key at https://emailpreview.h501.io/
