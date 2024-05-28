@@ -43,7 +43,7 @@ Note: You could theoretically send more than one device at once, this is support
 The preview is a full render simulation of how the HTML code would look like across different devices/simulation. The fidelty is 100% becuase every preview is actually rendered on the desired device/client.
 
 ### What devices/clients are supported?
-You can find the complete list of devices/clients [here](https://github.com/NeverVane/html-email-preview/devices-list.txt)
+You can find the complete list of devices/clients [here](https://github.com/NeverVane/html-email-preview/blob/master/devices-list.txt)
 
 ## Requirements
 
