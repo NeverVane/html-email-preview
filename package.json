@@ -4,7 +4,7 @@
   "description": "This API enables developers to preview how HTML emails will render across different email clients and devices. The aim is to eliminate the guesswork and ensure that emails look as intended, no matter where they’re viewed. Additionally, the repository includes a VS Code extension for seamless integration into your development environment. Use this tool to streamline your email testing process and maintain consistency and professionalism in your email communications.",
   "publisher": "H501Cloud",
   "icon": "imgs/icon.png",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.89.0"
   },
