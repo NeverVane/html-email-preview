@@ -4,6 +4,13 @@ This API enables developers to preview how HTML emails will render across differ
 
 Use this tool to streamline your email testing process and maintain consistency and professionalism in your email communications.
 
+### In order to run the commands you need to:
+
+Press CTRL + Shift + P
+Choose the command to run
+---> Set API Key ( you need to set this first )
+---> Show Preview
+
 ### Various devices / clients to choose from
 ![Device List](imgs/extension_devices.png)
 
