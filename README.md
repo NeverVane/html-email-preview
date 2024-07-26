@@ -8,7 +8,7 @@ Use this tool to streamline your email testing process and maintain consistency 
 
 Press CTRL + Shift + P
 Choose the command to run
----> Set API Key ( you need to set this first )
+---> Set API Key ( you need to set this first - [ Get one here ](https://emailpreview.h501.io))
 ---> Show Preview
 
 ### Various devices / clients to choose from
